@@ -274,5 +274,5 @@ form.addEventListener("submit", function(){
 
 var bck=document.getElementById("press")
 bck.addEventListener("click",function(){
-    window.location.href="movie_db.html"
+    window.location.href="index.html"
 })

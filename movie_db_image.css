@@ -1,0 +1,14 @@
+#background{
+    background-color: rgb(221, 82, 82);
+
+}
+
+#background_a{
+    background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);
+}
+
+@media only screen and (max-width: 1026px) {
+    #hereis {
+        display: none;
+    }
+}

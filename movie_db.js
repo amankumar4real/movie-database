@@ -4,7 +4,7 @@ function get_data(inp){
 
     var key="480611d5"
 
-    var url="http://www.omdbapi.com/?apikey="+key
+    var url="https://www.omdbapi.com/?apikey="+key
 
     var result=null
     var xhr=new XMLHttpRequest()
